@@ -41,4 +41,4 @@ Related to the publication are the following repositories:
 - https://github.com/Transparency-Information-Language/chatbot
 
 ## Contact
-If you have questions, open an issue here on Github or contact Elias Grünewald via his [institutional website](https://www.ise.tu-berlin.de/menue/team/elias_gruenewald/parameter/en/).
+If you have questions, open an issue here on Github or contact Elias Grünewald via his [institutional website](https://tu.berlin/ise/eg).
